@@ -37,6 +37,6 @@ The flow of code is as follows -<br>
    area. Now resultant image is taken as first image and next image in order is selected as second image and process
    is continued.
    
-#5) Storing final image - <br>
+5) Storing final image - <br>
     Final resultant stitched image is saved by the name "final_res.jpg" in the same file where script is present.
 
